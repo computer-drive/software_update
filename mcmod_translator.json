@@ -1,7 +1,7 @@
 {
-    "latest_verison": 1.1,
+    "latest_verison": 1.1，
     "update": {
-        "allow_version_min":1.0,
+        "allow_version_min":1.0，
         "allow_version_max":9999999999,
         "update_pack":false
     }
