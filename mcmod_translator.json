@@ -3,6 +3,8 @@
     "update": {
         "allow_version_min":1.0,
         "allow_version_max":999999999,
-        "update_pack":false
+        "update_pack":false,
+        "installer":"",
+        "update_pack_file":""
     }
 }
