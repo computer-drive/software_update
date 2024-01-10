@@ -4,7 +4,7 @@
         "allow_version_min":1.0,
         "allow_version_max":999999999,
         "update_pack":false,
-        "installer":"",
+        "installer":"https://computer-drive.github.io/software_update/mcmod_translator/update.exe",
         "update_pack_file":"https://computer-drive.github.io/MCmod_Translator/Translator.1.1.py"
     }
 }
