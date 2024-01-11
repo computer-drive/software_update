@@ -1,5 +1,5 @@
 {
-    "latest_verison": 1.2，
+    "latest_verison": 1.2,
     "update": {
         "allow_version_min":1.0,
         "allow_version_max":999999999,
